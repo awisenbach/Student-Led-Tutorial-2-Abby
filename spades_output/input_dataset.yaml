@@ -1,0 +1,7 @@
+- "left reads":
+  - "/jet/home/wisenbac/Student-Led-Tutorial-2-Abby/trimmed_1.fastq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/jet/home/wisenbac/Student-Led-Tutorial-2-Abby/trimmed_2.fastq"
+  "type": "paired-end"
